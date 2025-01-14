@@ -1,8 +1,8 @@
 [submodule "anticipation/mmaction"]
 	path = anticipation/mmaction
-	url = git@github.com:lyttonhao/mmaction.git
+	url = https://github.com/lyttonhao/mmaction.git
 	branch = ego-topo
 [submodule "anticipation/mmcv"]
 	path = anticipation/mmcv
-	url = git@github.com:lyttonhao/mmcv.git
-    branch = ego-topo
+	url = https://github.com/lyttonhao/mmcv.git
+	branch = ego-topo
