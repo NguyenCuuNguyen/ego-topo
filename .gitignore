@@ -3,3 +3,5 @@ __pycache__
 *.pth
 *.txt
 *.csv
+*.png
+P0*
